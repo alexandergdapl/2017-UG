@@ -1,0 +1,6 @@
+D:\c#\PG\Luty_2017_zadania\ZadanieDodatkowe\ZadanieDodatkowe\bin\Debug\ZadanieDodatkowe.exe.config
+D:\c#\PG\Luty_2017_zadania\ZadanieDodatkowe\ZadanieDodatkowe\bin\Debug\ZadanieDodatkowe.exe
+D:\c#\PG\Luty_2017_zadania\ZadanieDodatkowe\ZadanieDodatkowe\bin\Debug\ZadanieDodatkowe.pdb
+D:\c#\PG\Luty_2017_zadania\ZadanieDodatkowe\ZadanieDodatkowe\obj\Debug\ZadanieDodatkowe.csprojResolveAssemblyReference.cache
+D:\c#\PG\Luty_2017_zadania\ZadanieDodatkowe\ZadanieDodatkowe\obj\Debug\ZadanieDodatkowe.exe
+D:\c#\PG\Luty_2017_zadania\ZadanieDodatkowe\ZadanieDodatkowe\obj\Debug\ZadanieDodatkowe.pdb

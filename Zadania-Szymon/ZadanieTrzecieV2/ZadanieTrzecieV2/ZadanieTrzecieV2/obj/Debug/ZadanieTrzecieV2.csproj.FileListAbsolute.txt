@@ -1,0 +1,17 @@
+D:\c#\PG\Luty_2017_zadania\ZadanieTrzecieV2\ZadanieTrzecieV2\bin\Debug\ZadanieTrzecieV2.exe.config
+D:\c#\PG\Luty_2017_zadania\ZadanieTrzecieV2\ZadanieTrzecieV2\bin\Debug\ZadanieTrzecieV2.exe
+D:\c#\PG\Luty_2017_zadania\ZadanieTrzecieV2\ZadanieTrzecieV2\bin\Debug\ZadanieTrzecieV2.pdb
+D:\c#\PG\Luty_2017_zadania\ZadanieTrzecieV2\ZadanieTrzecieV2\obj\Debug\ZadanieTrzecieV2.exe
+D:\c#\PG\Luty_2017_zadania\ZadanieTrzecieV2\ZadanieTrzecieV2\obj\Debug\ZadanieTrzecieV2.pdb
+d:\c#\PG\Luty_2017_zadania\ZadanieTrzecieV2-GITHUB\ZadanieTrzecieV2\ZadanieTrzecieV2\bin\Debug\ZadanieTrzecieV2.exe.config
+d:\c#\PG\Luty_2017_zadania\ZadanieTrzecieV2-GITHUB\ZadanieTrzecieV2\ZadanieTrzecieV2\obj\Debug\ZadanieTrzecieV2.exe
+d:\c#\PG\Luty_2017_zadania\ZadanieTrzecieV2-GITHUB\ZadanieTrzecieV2\ZadanieTrzecieV2\obj\Debug\ZadanieTrzecieV2.pdb
+d:\c#\PG\Luty_2017_zadania\ZadanieTrzecieV2-GITHUB\ZadanieTrzecieV2\ZadanieTrzecieV2\bin\Debug\ZadanieTrzecieV2.exe
+d:\c#\PG\Luty_2017_zadania\ZadanieTrzecieV2-GITHUB\ZadanieTrzecieV2\ZadanieTrzecieV2\bin\Debug\ZadanieTrzecieV2.pdb
+d:\c#\PG\Luty_2017_zadania\ZadanieTrzecieV2-GITHUB\ZadanieTrzecieV2\ZadanieTrzecieV2\obj\Debug\ZadanieTrzecieV2.csprojResolveAssemblyReference.cache
+D:\c#\PG\Luty_2017_zadania\GITHUB\ZadanieTrzecieV2\ZadanieTrzecieV2\ZadanieTrzecieV2\bin\Debug\ZadanieTrzecieV2.exe.config
+D:\c#\PG\Luty_2017_zadania\GITHUB\ZadanieTrzecieV2\ZadanieTrzecieV2\ZadanieTrzecieV2\obj\Debug\ZadanieTrzecieV2.exe
+D:\c#\PG\Luty_2017_zadania\GITHUB\ZadanieTrzecieV2\ZadanieTrzecieV2\ZadanieTrzecieV2\obj\Debug\ZadanieTrzecieV2.pdb
+D:\c#\PG\Luty_2017_zadania\GITHUB\ZadanieTrzecieV2\ZadanieTrzecieV2\ZadanieTrzecieV2\bin\Debug\ZadanieTrzecieV2.exe
+D:\c#\PG\Luty_2017_zadania\GITHUB\ZadanieTrzecieV2\ZadanieTrzecieV2\ZadanieTrzecieV2\bin\Debug\ZadanieTrzecieV2.pdb
+D:\c#\PG\Luty_2017_zadania\GITHUB\ZadanieTrzecieV2\ZadanieTrzecieV2\ZadanieTrzecieV2\obj\Debug\ZadanieTrzecieV2.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+D:\c#\PG\Luty_2017_zadania\ZadaniePierwsze\ZadaniePierwsze\bin\Debug\ZadaniePierwsze.exe.config
+D:\c#\PG\Luty_2017_zadania\ZadaniePierwsze\ZadaniePierwsze\bin\Debug\ZadaniePierwsze.exe
+D:\c#\PG\Luty_2017_zadania\ZadaniePierwsze\ZadaniePierwsze\bin\Debug\ZadaniePierwsze.pdb
+D:\c#\PG\Luty_2017_zadania\ZadaniePierwsze\ZadaniePierwsze\obj\Debug\ZadaniePierwsze.csprojResolveAssemblyReference.cache
+D:\c#\PG\Luty_2017_zadania\ZadaniePierwsze\ZadaniePierwsze\obj\Debug\ZadaniePierwsze.exe
+D:\c#\PG\Luty_2017_zadania\ZadaniePierwsze\ZadaniePierwsze\obj\Debug\ZadaniePierwsze.pdb
