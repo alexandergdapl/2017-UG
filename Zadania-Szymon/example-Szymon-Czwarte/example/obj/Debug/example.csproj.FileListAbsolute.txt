@@ -1,0 +1,12 @@
+C:\Users\gsun1\Desktop\example\example\bin\Debug\example.exe.config
+C:\Users\gsun1\Desktop\example\example\bin\Debug\example.exe
+C:\Users\gsun1\Desktop\example\example\bin\Debug\example.pdb
+C:\Users\gsun1\Desktop\example\example\obj\Debug\example.csprojResolveAssemblyReference.cache
+C:\Users\gsun1\Desktop\example\example\obj\Debug\example.exe
+C:\Users\gsun1\Desktop\example\example\obj\Debug\example.pdb
+d:\c#\PG\Luty_2017_zadania\example\example\bin\Debug\example.exe.config
+d:\c#\PG\Luty_2017_zadania\example\example\obj\Debug\example.exe
+d:\c#\PG\Luty_2017_zadania\example\example\obj\Debug\example.pdb
+d:\c#\PG\Luty_2017_zadania\example-Szymon\example\bin\Debug\example.exe.config
+d:\c#\PG\Luty_2017_zadania\example-Szymon\example\obj\Debug\example.exe
+d:\c#\PG\Luty_2017_zadania\example-Szymon\example\obj\Debug\example.pdb

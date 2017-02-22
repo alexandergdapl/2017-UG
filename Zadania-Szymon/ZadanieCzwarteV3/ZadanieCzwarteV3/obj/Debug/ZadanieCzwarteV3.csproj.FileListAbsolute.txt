@@ -10,3 +10,9 @@ D:\c#\PG\Luty_2017_zadania\GITHUB\ZadanieCzwarteV3\ZadanieCzwarteV3\obj\Debug\Za
 D:\c#\PG\Luty_2017_zadania\GITHUB\ZadanieCzwarteV3\ZadanieCzwarteV3\bin\Debug\ZadanieCzwarteV3.exe
 D:\c#\PG\Luty_2017_zadania\GITHUB\ZadanieCzwarteV3\ZadanieCzwarteV3\bin\Debug\ZadanieCzwarteV3.pdb
 D:\c#\PG\Luty_2017_zadania\GITHUB\ZadanieCzwarteV3\ZadanieCzwarteV3\obj\Debug\ZadanieCzwarteV3.csprojResolveAssemblyReference.cache
+d:\c#\2017-UG\Zadania-Szymon\ZadanieCzwarteV3\ZadanieCzwarteV3\bin\Debug\ZadanieCzwarteV3.exe.config
+d:\c#\2017-UG\Zadania-Szymon\ZadanieCzwarteV3\ZadanieCzwarteV3\obj\Debug\ZadanieCzwarteV3.exe
+d:\c#\2017-UG\Zadania-Szymon\ZadanieCzwarteV3\ZadanieCzwarteV3\obj\Debug\ZadanieCzwarteV3.pdb
+d:\c#\2017-UG\Zadania-Szymon\ZadanieCzwarteV3\ZadanieCzwarteV3\bin\Debug\ZadanieCzwarteV3.exe
+d:\c#\2017-UG\Zadania-Szymon\ZadanieCzwarteV3\ZadanieCzwarteV3\bin\Debug\ZadanieCzwarteV3.pdb
+d:\c#\2017-UG\Zadania-Szymon\ZadanieCzwarteV3\ZadanieCzwarteV3\obj\Debug\ZadanieCzwarteV3.csprojResolveAssemblyReference.cache
