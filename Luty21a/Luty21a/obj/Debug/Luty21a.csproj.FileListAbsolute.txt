@@ -7,3 +7,9 @@ c:\users\kk-aszycik\documents\visual studio 2012\Projects\Luty21a\Luty21a\obj\De
 d:\c#\UG\Luty21a\Luty21a\bin\Debug\Luty21a.exe.config
 d:\c#\UG\Luty21a\Luty21a\obj\Debug\Luty21a.exe
 d:\c#\UG\Luty21a\Luty21a\obj\Debug\Luty21a.pdb
+D:\c#\2017-UG\Luty21a\Luty21a\bin\Debug\Luty21a.exe.config
+D:\c#\2017-UG\Luty21a\Luty21a\obj\Debug\Luty21a.exe
+D:\c#\2017-UG\Luty21a\Luty21a\obj\Debug\Luty21a.pdb
+D:\c#\2017-UG\Luty21a\Luty21a\bin\Debug\Luty21a.exe
+D:\c#\2017-UG\Luty21a\Luty21a\bin\Debug\Luty21a.pdb
+D:\c#\2017-UG\Luty21a\Luty21a\obj\Debug\Luty21a.csprojResolveAssemblyReference.cache

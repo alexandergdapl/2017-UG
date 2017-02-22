@@ -4,8 +4,8 @@ namespace Luty21a
 {
     /*
        Zad.1
-       Stwórz interfejs IPojazd w którym znajdować się będą trzy metody 
-       typu void i pobierające po jednym parametrze o nazwach 
+       Stwórz interfejs IPojazd w którym znajdować się będą trzy metody void
+       i pobierające po jednym parametrze o nazwach 
        UstawRodzajPojazdu, UstawIloscKol, UstawIloscMiejsc.
        Stwórz klasę Ciezarowka dziedziczącą po interfejsie. 
        Za pomocą metod przypisz do pól prywatnych wartości. 
