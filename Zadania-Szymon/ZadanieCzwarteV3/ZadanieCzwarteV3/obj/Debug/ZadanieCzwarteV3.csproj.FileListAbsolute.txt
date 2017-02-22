@@ -1,0 +1,12 @@
+D:\c#\PG\Luty_2017_zadania\ZadanieCzwarteV3\ZadanieCzwarteV3\bin\Debug\ZadanieCzwarteV3.exe.config
+D:\c#\PG\Luty_2017_zadania\ZadanieCzwarteV3\ZadanieCzwarteV3\bin\Debug\ZadanieCzwarteV3.exe
+D:\c#\PG\Luty_2017_zadania\ZadanieCzwarteV3\ZadanieCzwarteV3\bin\Debug\ZadanieCzwarteV3.pdb
+D:\c#\PG\Luty_2017_zadania\ZadanieCzwarteV3\ZadanieCzwarteV3\obj\Debug\ZadanieCzwarteV3.csprojResolveAssemblyReference.cache
+D:\c#\PG\Luty_2017_zadania\ZadanieCzwarteV3\ZadanieCzwarteV3\obj\Debug\ZadanieCzwarteV3.exe
+D:\c#\PG\Luty_2017_zadania\ZadanieCzwarteV3\ZadanieCzwarteV3\obj\Debug\ZadanieCzwarteV3.pdb
+D:\c#\PG\Luty_2017_zadania\GITHUB\ZadanieCzwarteV3\ZadanieCzwarteV3\bin\Debug\ZadanieCzwarteV3.exe.config
+D:\c#\PG\Luty_2017_zadania\GITHUB\ZadanieCzwarteV3\ZadanieCzwarteV3\obj\Debug\ZadanieCzwarteV3.exe
+D:\c#\PG\Luty_2017_zadania\GITHUB\ZadanieCzwarteV3\ZadanieCzwarteV3\obj\Debug\ZadanieCzwarteV3.pdb
+D:\c#\PG\Luty_2017_zadania\GITHUB\ZadanieCzwarteV3\ZadanieCzwarteV3\bin\Debug\ZadanieCzwarteV3.exe
+D:\c#\PG\Luty_2017_zadania\GITHUB\ZadanieCzwarteV3\ZadanieCzwarteV3\bin\Debug\ZadanieCzwarteV3.pdb
+D:\c#\PG\Luty_2017_zadania\GITHUB\ZadanieCzwarteV3\ZadanieCzwarteV3\obj\Debug\ZadanieCzwarteV3.csprojResolveAssemblyReference.cache

@@ -1,0 +1,11 @@
+Stwórz klasę Chłopcy zawierającą pole prywatne imiona będące tablicą 5 elemetów typu String 
+i zainicjuj ją wymyślonymi wartościami (imionami) w miejscu deklaracji tablicy. 
+
+Stwórz metodę która zwraca tę tablicę. 
+
+Stwórz podobną klasę Dziewczyny. 
+
+W metodzie static main pobierz obie tablice. 
+Stwórz tablicę o nazwie pary  i wypełnij ją parami za pomocą konkatenacji(łączenie za pomocą +)  imion z tablic Chłopcy i Dziewczyny. 
+
+Wyświetl rezultat.
