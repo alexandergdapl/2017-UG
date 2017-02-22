@@ -1,0 +1,9 @@
+c:\users\kk-aszycik\documents\visual studio 2012\Projects\Luty21a\Luty21a\bin\Debug\Luty21a.exe.config
+c:\users\kk-aszycik\documents\visual studio 2012\Projects\Luty21a\Luty21a\obj\Debug\Luty21a.csprojResolveAssemblyReference.cache
+c:\users\kk-aszycik\documents\visual studio 2012\Projects\Luty21a\Luty21a\bin\Debug\Luty21a.exe
+c:\users\kk-aszycik\documents\visual studio 2012\Projects\Luty21a\Luty21a\bin\Debug\Luty21a.pdb
+c:\users\kk-aszycik\documents\visual studio 2012\Projects\Luty21a\Luty21a\obj\Debug\Luty21a.exe
+c:\users\kk-aszycik\documents\visual studio 2012\Projects\Luty21a\Luty21a\obj\Debug\Luty21a.pdb
+d:\c#\UG\Luty21a\Luty21a\bin\Debug\Luty21a.exe.config
+d:\c#\UG\Luty21a\Luty21a\obj\Debug\Luty21a.exe
+d:\c#\UG\Luty21a\Luty21a\obj\Debug\Luty21a.pdb
