@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Luty21a
+﻿namespace Luty21a
 {
     public interface IPojazd
     {

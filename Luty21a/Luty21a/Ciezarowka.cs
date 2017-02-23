@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace Luty21a
+﻿namespace Luty21a
 {
     class Ciezarowka : IPojazd
     {
@@ -13,18 +11,14 @@ namespace Luty21a
         {
             _rodzaj = rodzaj;
         }
-
         public void UstawIloscKol(int kola)
         {
             _kola = kola;
         }
-
         public void UstawIloscMiejsc(int miejsca)
         {
             _miejsca = miejsca;
         }
-
-       
 
         public string PobierzRodzajPojazdu()
         {

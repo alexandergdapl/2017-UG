@@ -6,7 +6,10 @@ namespace Luty21a
     {
         public override string ToString()
         {
-            return "Imie: " + _imie + "Nazwisko: " + _nazwisko + "Wiek: " + _wiek;
+            return "Imie: " + _imie + 
+                   "Nazwisko: " + _nazwisko + 
+                   "Wiek: " + _wiek;
+            
         }
     }
 }

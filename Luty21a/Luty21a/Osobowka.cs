@@ -7,9 +7,5 @@ namespace Luty21a
         public string RodzajPojazdu { get; set; }
         public int IloscKol { get; set; }
         public int IloscMiejsc { get; set; }
-
-        
-
-
     }
 }
