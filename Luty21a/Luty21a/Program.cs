@@ -41,7 +41,8 @@ namespace Luty21a
             Le.Skakanie();
             new MichaelPhelps().Plywanie();
             new UsainBolt().Bieganie();
-
+            Le.Plywanie();
+            new MichaelPhelps().Bieganie();
 
             Console.ReadKey();
 

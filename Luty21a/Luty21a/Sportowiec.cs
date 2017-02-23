@@ -11,5 +11,7 @@ namespace Luty21a
         public abstract void Bieganie();
         public abstract void Skakanie();
         public abstract void Plywanie();
+
+        public string rybka = "\n\nRybka lubi pływać.";
     }
 }

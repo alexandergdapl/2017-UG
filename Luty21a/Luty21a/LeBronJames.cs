@@ -10,18 +10,19 @@ namespace Luty21a
     {
         public override void Bieganie()
         {
-
-            throw new NotImplementedException();
+            Console.WriteLine("LeBron James biega wolno, ale za to dobrze skacze");
         }
 
         public override void Skakanie()
         {
-            Console.WriteLine("koszykarz dobrze skacze...");
+            Console.WriteLine("koszykarz dobrze skacze... ;)");
         }
 
         public override void Plywanie()
         {
-            throw new NotImplementedException();
+            Console.WriteLine();
+            Bieganie();
+            Console.WriteLine("...a poza tym chyba nie umie pływać.");
         }
     }
 }

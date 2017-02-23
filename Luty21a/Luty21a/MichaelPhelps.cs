@@ -10,12 +10,12 @@ namespace Luty21a
     {
         public override void Bieganie()
         {
-            throw new NotImplementedException();
+            Console.WriteLine(rybka);
         }
 
         public override void Skakanie()
         {
-            throw new NotImplementedException();
+            Plywanie();
         }
 
         public override void Plywanie()
