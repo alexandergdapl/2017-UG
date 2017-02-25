@@ -9,8 +9,9 @@ namespace OsobyPlikMaleWielkie
 {
     class DownloadDataFromFile
     {
-        public static string PathToFile = @"D:\c#\2017-UG\Zadania-Szymon\2017-02-23\data.txt";
-        public static string[] array = File.ReadAllLines(PathToFile);
+        public static string PathToFileIn = @"D:\c#\2017-UG\Zadania-Szymon\2017-02-23\data.txt";
+        public static string PathToFileOut = @"D:\c#\2017-UG\Zadania-Szymon\2017-02-23\data-new.txt";
+        public static string[] array = File.ReadAllLines(PathToFileIn);
 
         public void PrintArray()
         {
