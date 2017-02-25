@@ -16,6 +16,13 @@ namespace OsobyPlikMaleWielkie
             tablica.PrintArray();
             Console.WriteLine();
 
+            // sposób marcina
+            tablica.MarcinReplace();
+            tablica.PrintArray();
+
+            //Marcin napisał metodę, która zastępuje dwie poniższe
+
+            /*
             //trimuję od @ do końca i drukuję efekt
             tablica.TrimAfterMonkey();
             tablica.PrintArray();
@@ -27,11 +34,17 @@ namespace OsobyPlikMaleWielkie
             tablica.PrintArray();
 
             Console.WriteLine();
+            */
+
+
+
+
+
 
             //zmieniam pierwsze litery na Wielkie
             tablica.FirstCharToUpper();
             Console.WriteLine("\nZgodnie z treścią zadania tylko to poniżej ma się wydrukować na ekran:\n");
-
+            
             Console.ResetColor();
 
             tablica.PrintArray();

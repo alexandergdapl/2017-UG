@@ -1,14 +1,16 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Globalization;
+using System.IO;
+using System.Text.RegularExpressions;
 
 
 namespace OsobyPlikMaleWielkie
 {
     class DownloadDataFromFile
     {
-
-        public static string[] array = System.IO.File.ReadAllLines(@"D:\c#\2017-UG\Zadania-Szymon\2017-02-23\data.txt");
+        public static string PathToFile = @"D:\c#\2017-UG\Zadania-Szymon\2017-02-23\data.txt";
+        public static string[] array = File.ReadAllLines(PathToFile);
 
         public void PrintArray()
         {
@@ -56,12 +58,28 @@ namespace OsobyPlikMaleWielkie
         
         public void RecordToFile()
         {
-            using (System.IO.StreamWriter file = new System.IO.StreamWriter(@"D:\c#\2017-UG\Zadania-Szymon\2017-02-23\data-new.txt"))
+            using (StreamWriter file = new StreamWriter(@"D:\c#\2017-UG\Zadania-Szymon\2017-02-23\data-new.txt"))
             {
                 foreach (string line in array)
                 {
                     file.WriteLine(line);
                 }
+            }
+        }
+
+        public void MarcinReplace()
+        {
+            for (int i = 0; i < array.Length; i++)
+            {
+                var reg = new Regex(@"^(?<name>[\w]+)\.(?<vorname>[\w]+)@.+$", RegexOptions.IgnoreCase);
+                var match = reg.Match(array[i]);
+                string name = "", vorname = "";
+                if (match.Success)
+                {
+                    name = match.Groups["name"].ToString();
+                    vorname = match.Groups["vorname"].ToString();
+                }
+                array[i] = name + ' ' + vorname;
             }
         }
     }
